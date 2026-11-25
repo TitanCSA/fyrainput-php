@@ -1,5 +1,11 @@
 # FyraInput PHP SDK
 
+<!-- simple-start:start -->
+Use FyraInput from a PHP app.
+
+**Start here.** Run `composer require titancsa/fyrainput`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
